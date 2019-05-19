@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://18.232.101.109:8081/repository/Test-Release/</url>
+            <url>http://18.232.101.109:8081/repository/sunday/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://18.232.101.109:8081/repository/Test-SnapShots/</url>
+            <url>http://18.232.101.109:8081/repository/sunday-ss/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
